@@ -20,7 +20,7 @@
     margin: 30px 0 45px 0;
 }
 
-.item-name {
+.item__name {
     text-align: center;
     font-size: 22px;
     text-transform: uppercase;
